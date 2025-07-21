@@ -93,9 +93,8 @@ Here are some ideas to get you started:
 ### 📄 My Resume
 
 You can view or download my CV here 👉  
-[📄 View Online](https://github.com/AhmedMostafa2029/AhmedMostafa2029/raw/main/AhmedMostafa_CV.pdf)  
-or  
-[📥 Download PDF](./AhmedMostafa_CV.pdf)
+[📄 View My CV ](https://drive.google.com/file/d/1vwyDg1DjAUFWLGp1ncOZZvlbJOTYo_dJ/view?usp=drive_link)
+
 
 
 
