@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 ### 📄 My Resume
 
 You can view or download my CV here 👉  
-[📥 Download My CV (PDF)](./Ahmed%20Mostafa%20Mohamed%20CV.pdf)
+[📥 Download My CV (PDF)](./AhmedMostafa_CV.pdf)
 
 ---
 
