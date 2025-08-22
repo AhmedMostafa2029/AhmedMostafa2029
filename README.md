@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 ### 📄 My Resume
 
 You can view or download my CV here 👉  
-[📄 View My CV ](https://drive.google.com/file/d/1vwyDg1DjAUFWLGp1ncOZZvlbJOTYo_dJ/view?usp=drive_link)
+[📄 View My CV ](https://drive.google.com/file/d/1S4pGfYmOc5hUb8PKLLQ57FLOuHxAyeil/view?usp=drive_link)
 
 
 
