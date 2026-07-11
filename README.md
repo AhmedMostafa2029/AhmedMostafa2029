@@ -1,4 +1,8 @@
+<!-- **AhmedMostafa2029/AhmedMostafa2029** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... --> 
+
+[![MasterHead](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://github.com/AhmedMostafa2029/) 
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa Mohamed</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <h3 align="center">
 Backend .NET Developer | Computer Science Student
@@ -13,7 +17,7 @@ I build backend applications using ASP.NET Core, Entity Framework Core, and SQL 
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mostafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="ahmed.abdelgany2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -125,18 +129,15 @@ The system includes product management, categories, product variants, inventory 
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=AhmedMostafa2029&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedMostafa2029&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMostafa2029&layout=compact&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMostafa2029&layout=compact&theme=github_dark&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMostafa2029&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMostafa2029&theme=github-dark-blue&hide_border=true" />
 
 </p>
 
