@@ -1,35 +1,5 @@
 <!--
 
-<h3 align="center">
-Backend .NET Developer | Computer Science Student
-</h3>
-
-<p align="center">
-I build backend applications using ASP.NET Core, Entity Framework Core, and SQL Server, with a focus on clean architecture, maintainable code, and solving real-world problems.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-mostafa-mohamed-720b20342">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mostafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="ahmed.abdelgany2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science student currently entering my fourth year.
-- 💻 Focused on Backend Development using ASP.NET Core and C#.
-- 🏗️ Interested in Backend Architecture, Database Design, and building maintainable applications.
-- 🌱 Currently improving my skills in ASP.NET Core, Entity Framework Core, SQL Server, and Software Architecture.
-- 🧠 Interested in Problem Solving, Competitive Programming, and building solutions for real-world problems.
-- 🚀 Working toward becoming a professional .NET Backend Developer.
-
----
 
 ## 🛠️ Technical Skills
 
@@ -89,35 +59,6 @@ I build backend applications using ASP.NET Core, Entity Framework Core, and SQL 
 - VS Code
 - Postman
 
----
-
-## 🚀 Featured Projects
-
-### 🏋️ Gym Management System
-
-A web-based Gym Management System built using ASP.NET Core MVC, Entity Framework Core, and SQL Server following N-Tier Architecture.
-
-The system manages members, trainers, sessions, membership plans, subscriptions, bookings, attendance, and health records while implementing real-world business rules.
-
-**Technologies & Concepts:**
-
-`ASP.NET Core MVC` `C#` `EF Core` `SQL Server` `AutoMapper` `N-Tier Architecture` `Generic Repository` `Unit of Work` `Dependency Injection`
-
-🔗 [View Repository](https://github.com/AhmedMostafa2029/Gym-Management-System)
-
----
-
-### 🛒 E-Commerce System
-
-A web-based E-Commerce application developed using ASP.NET Core MVC and SQL Server.
-
-The system includes product management, categories, product variants, inventory management, shopping cart, order processing, payments, shipments, and an administration dashboard.
-
-**Technologies & Concepts:**
-
-`ASP.NET Core MVC` `C#` `EF Core` `SQL Server` `N-Tier Architecture`
-
-🔗 Repository Coming Soon
 
 ---
 
@@ -258,7 +199,7 @@ The system includes product management, categories, product variants, inventory 
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
   <a href="https://www.linkedin.com/in/ahmed-mostafa-mohamed-720b20342" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
