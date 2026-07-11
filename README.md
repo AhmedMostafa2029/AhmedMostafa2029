@@ -1,106 +1,172 @@
+<h1 align="center">Hi 👋, I'm Ahmed Mostafa Mohamed</h1>
 
-<!--
-**AhmedMostafa2029/AhmedMostafa2029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend .NET Developer | Computer Science Student
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![MasterHead](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://github.com/AhmedMostafa2029/)
-
-
-<h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
-<h3 align="center">Flutter Developer and student at CS & IT</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-<p align="left">
-  <img src
-="https://komarev.com/ghpvc/?username=AhmedMostafa2029&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedMostafa2029" />
+<p align="center">
+I build backend applications using ASP.NET Core, Entity Framework Core, and SQL Server, with a focus on clean architecture, maintainable code, and solving real-world problems.
 </p>
 
----
-
-> 🔭 I’m currently working on Flutter mobile apps  
-> 🌱 I’m learning advanced Dart, animations, and Firebase integration  
-> 💬 Ask me about Flutter, Dart, UI design  
-> ⚡ Fun fact: I love solving real-world problems through code
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.facebook.com/share/19AnKd1ngj/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" height="30" width="30" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-mostafa-mohamed-720b20342">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mostafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ahmed_mostafa5g?igsh=MTdpMnhwMW9nanMybQ==" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-mostafa-mohamed-720b20342" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://cplusplus.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="60"/> </a>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> </a>
-  <a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="Android Studio" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
+- 🎓 Computer Science student currently entering my fourth year.
+- 💻 Focused on Backend Development using ASP.NET Core and C#.
+- 🏗️ Interested in Backend Architecture, Database Design, and building maintainable applications.
+- 🌱 Currently improving my skills in ASP.NET Core, Entity Framework Core, SQL Server, and Software Architecture.
+- 🧠 Interested in Problem Solving, Competitive Programming, and building solutions for real-world problems.
+- 🚀 Working toward becoming a professional .NET Backend Developer.
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+- C#
+- ASP.NET Core MVC
+- Entity Framework Core
+- LINQ
+- RESTful APIs
+- Asynchronous Programming
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- SQL Server
+- Database Design
+- Entity Framework Core Code First
+
+### Software Architecture & Practices
+
+- N-Tier Architecture
+- Repository Pattern
+- Unit of Work Pattern
+- Dependency Injection
+- SOLID Principles
+- Result Pattern
+- ViewModel Pattern
+
+### Frontend Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Razor Views
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
+</p>
+
+- Git & GitHub
+- Visual Studio
+- VS Code
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ Gym Management System
+
+A web-based Gym Management System built using ASP.NET Core MVC, Entity Framework Core, and SQL Server following N-Tier Architecture.
+
+The system manages members, trainers, sessions, membership plans, subscriptions, bookings, attendance, and health records while implementing real-world business rules.
+
+**Technologies & Concepts:**
+
+`ASP.NET Core MVC` `C#` `EF Core` `SQL Server` `AutoMapper` `N-Tier Architecture` `Generic Repository` `Unit of Work` `Dependency Injection`
+
+🔗 [View Repository](https://github.com/AhmedMostafa2029/Gym-Management-System)
+
+---
+
+### 🛒 E-Commerce System
+
+A web-based E-Commerce application developed using ASP.NET Core MVC and SQL Server.
+
+The system includes product management, categories, product variants, inventory management, shopping cart, order processing, payments, shipments, and an administration dashboard.
+
+**Technologies & Concepts:**
+
+`ASP.NET Core MVC` `C#` `EF Core` `SQL Server` `N-Tier Architecture`
+
+🔗 Repository Coming Soon
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=AhmedMostafa2029&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMostafa2029&layout=compact&theme=github_dark&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMostafa2029&theme=github-dark-blue&hide_border=true" />
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMostafa2029&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMostafa2029&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<a href="https://www.linkedin.com/in/ahmed-mostafa-mohamed-720b20342">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMostafa2029&layout=compact&theme=tokyonight" alt="Top Languages" />
+<a href="https://github.com/AhmedMostafa2029">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 📄 My Resume
+## 📄 Resume
 
-You can view or download my CV here 👉  
+You can view my resume here:
+
 [📄 View My CV ](https://drive.google.com/file/d/1S4pGfYmOc5hUb8PKLLQ57FLOuHxAyeil/view?usp=drive_link)
 
-
-
-
 ---
 
-
-<!-- Profile README for Ahmed Mostafa | Flutter Developer | Dart | CS Student -->
+<p align="center">
+<i>Always learning, building, and improving.</i>
+</p>
 
