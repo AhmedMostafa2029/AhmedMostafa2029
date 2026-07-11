@@ -1,22 +1,7 @@
-<!-- 
-AhmedMostafa2029/AhmedMostafa2029** 
-is a 
-✨ _special_ 
-✨ repository because its README.md (this file) appears on your GitHub profile. 
-
-Here are some ideas to get you started: 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... --> 
 
 [![MasterHead](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://github.com/AhmedMostafa2029/) 
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa Mohamed</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <h3 align="center">
 Backend .NET Developer | Computer Science Student
